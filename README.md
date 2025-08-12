@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=authdev2&label=Profile%20views&color=0e75b6&style=flat" alt="authdev2" /> </p>
 
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **node.js**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
