@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **lua, js, java, html, css**
+- 💬 Ask me about **html, css, js, node js, lua, git**
 
 - 📫 How to reach me **flaviogomes05.work@gmail.com**
 
